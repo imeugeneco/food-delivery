@@ -1,0 +1,42 @@
+'orderNo', 			주문번호
+ 'serviceType', 			울트라콜 / 기타
+'deliveryType',			수령방법
+ 'purchaseType',			결제 방법(MEET, BARO)
+'reservation',
+ 'payAmount',			결제 금액
+ 'orderAmount',			주문 금액
+'orderDatetime',			주문시각
+ 'acceptDatetime',			접수시각
+'arriveDatetime',			배달시각
+ 'closedDatetime',			
+ 'charge', 			배달팁['deliveryTip']
+'items',				항목[리스트 -> ['name', 'quantity', 'options' -> 리스트['group'] == '추가선택'=> 리스트[items]
+'payments', 			결제방법['name']
+'discounts', 			
+'orderer', 			주소[''streetAddress']
+'memo', 				요청사항['delivery']
+'memos', 			
+'card',
+ 'cash'
+
+
+0, 2, 10, 14, 13, 5, 9, 4, 1, 3, 6, 7, 8, 11, 12
+
+2020-08-22 17:55:23
+
+https://ceo.nowwaiting.co/order_sales/history
+2753034@naver.com
+@@a1s2d3f4
+
+
+https://nowwaiting.co/api/v2/spots/5185/stats/orders?created_on=2020-08-27&page=1&count=1000&order_type=&payment_type=
+
+
+https://web.albamapp.com/today
+
+01068863034
+@@a1s2d3f4
+
+
+
+https://api-v3.albamapp.com/api/v3/rolls/getWebAdminRollsList?q=1598717584863
